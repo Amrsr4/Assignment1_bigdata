@@ -1,0 +1,5 @@
+Cluster distribution (k=3):
+1    98
+0    69
+2    16
+Name: count, dtype: int64

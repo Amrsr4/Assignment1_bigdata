@@ -1,0 +1,4 @@
+Correlation matrix:
+              fare  survived
+fare      1.000000  0.134241
+survived  0.134241  1.000000

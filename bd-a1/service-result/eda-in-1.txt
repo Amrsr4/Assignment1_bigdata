@@ -1,0 +1,5 @@
+Missing values per column:
+age         0
+fare        0
+survived    0
+dtype: int64
